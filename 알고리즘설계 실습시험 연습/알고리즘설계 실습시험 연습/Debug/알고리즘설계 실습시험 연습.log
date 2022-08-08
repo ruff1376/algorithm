@@ -1,0 +1,17 @@
+﻿  source.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4034): error C2672: '_Sort_unchecked': 일치하는 오버로드된 함수가 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4040): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::sort<_RanIt,std::less<void>>(const _RanIt,const _RanIt,_Pr)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=int,
+              _Pr=std::less<void>
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 실습시험 연습\알고리즘설계 실습시험 연습\source.cpp(39): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::sort<int>(const _RanIt,const _RanIt)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4034): error C2893: 'void std::_Sort_unchecked(_RanIt,_RanIt,iterator_traits<_Iter>::difference_type,_Pr)' 함수 템플릿을 특수화하지 못했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4034): note: 다음 템플릿 인수 사용:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4034): note: '_RanIt=_Iter'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4034): note: '_Pr=_Fn'

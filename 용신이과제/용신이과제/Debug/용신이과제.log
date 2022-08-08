@@ -1,0 +1,4 @@
+﻿  source.cpp
+c:\users\한지용\source\repos\용신이과제\용신이과제\source.cpp(41): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+c:\users\한지용\source\repos\용신이과제\용신이과제\source.cpp(42): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  용신이과제.vcxproj -> C:\Users\한지용\source\repos\용신이과제\Debug\용신이과제.exe

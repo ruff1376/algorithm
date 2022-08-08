@@ -1,0 +1,106 @@
+﻿  gaTSP.cpp
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\utils.h(21): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.h(181): error C4596: 'Crossover': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(94): error C2065: 'i': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(96): error C2065: 'i': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(172): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(193): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(205): error C2065: 'gen': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(207): error C2065: 'gen': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(209): error C2065: 'gen': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(241): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(248): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(362): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(381): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(383): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(385): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(754): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(768): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(770): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(788): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(794): error C2065: 'cit': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(796): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(798): error C2065: 'cit': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(800): error C2065: 'cit': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(845): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(855): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(868): error C2065: 'pos': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(872): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(879): error C2065: 'pos': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(879): error C2660: 'TestNumber': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(11): note: 'TestNumber' 선언을 참조하십시오.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(881): error C2065: 'pos': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(885): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(892): error C2065: 'pos': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(892): error C2660: 'TestNumber': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(11): note: 'TestNumber' 선언을 참조하십시오.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(894): error C2065: 'pos': 선언되지 않은 식별자입니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1112): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1148): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1164): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1178): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'const _Elem *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1178): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1189): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'const _Elem *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1189): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1196): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'const _Elem *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1196): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1202): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'const _Elem *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1202): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1211): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'const _Elem *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1211): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1219): warning C4244: '인수': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1220): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'const _Elem *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.cpp(1220): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  main.cpp
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\utils.h(21): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\gatsp.h(181): error C4596: 'Crossover': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(27): error C2440: '초기화 중': 'const char [37]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(27): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(28): error C2440: '초기화 중': 'const char [9]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(28): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): error C2440: '초기화 중': 'const char [18]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): error C2440: '초기화 중': 'const char [22]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): error C2440: '초기화 중': 'const char [19]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): error C2440: '초기화 중': 'const char [29]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(35): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(40): error C2440: '초기화 중': 'const char [28]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(40): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(40): error C2440: '초기화 중': 'const char [22]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(40): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(40): error C2440: '초기화 중': 'const char [40]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(40): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(457): error C2440: '=': 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(457): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(466): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(476): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(519): error C2664: 'BOOL UnregisterClassW(LPCWSTR,HINSTANCE)': 인수 1을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\한지용\source\repos\알고리즘설계 설계프로젝트\알고리즘설계 설계프로젝트\main.cpp(519): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  코드를 생성하고 있습니다...

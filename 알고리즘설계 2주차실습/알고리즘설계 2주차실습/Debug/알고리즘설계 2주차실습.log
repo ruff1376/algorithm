@@ -1,0 +1,14 @@
+﻿  week2.cpp
+c:\users\한지용\source\repos\알고리즘설계 2주차실습\알고리즘설계 2주차실습\week2.cpp(11): warning C4305: '인수': 'int'에서 'const _Elem'(으)로 잘립니다.
+          with
+          [
+              _Elem=char
+          ]
+c:\users\한지용\source\repos\알고리즘설계 2주차실습\알고리즘설계 2주차실습\week2.cpp(11): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\한지용\source\repos\알고리즘설계 2주차실습\알고리즘설계 2주차실습\week2.cpp(12): warning C4305: '인수': 'int'에서 'const _Elem'(으)로 잘립니다.
+          with
+          [
+              _Elem=char
+          ]
+c:\users\한지용\source\repos\알고리즘설계 2주차실습\알고리즘설계 2주차실습\week2.cpp(12): warning C4309: '인수': 상수 값이 잘립니다.
+  알고리즘설계 2주차실습.vcxproj -> C:\Users\한지용\source\repos\알고리즘설계 2주차실습\Debug\알고리즘설계 2주차실습.exe

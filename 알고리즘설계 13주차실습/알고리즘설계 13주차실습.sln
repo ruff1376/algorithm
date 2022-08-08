@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘설계 13주차실습", "알고리즘설계 13주차실습\알고리즘설계 13주차실습.vcxproj", "{D1456753-7306-42C3-9306-B3E9DFBED046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Debug|x64.ActiveCfg = Debug|x64
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Debug|x64.Build.0 = Debug|x64
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Debug|x86.Build.0 = Debug|Win32
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Release|x64.ActiveCfg = Release|x64
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Release|x64.Build.0 = Release|x64
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Release|x86.ActiveCfg = Release|Win32
+		{D1456753-7306-42C3-9306-B3E9DFBED046}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B3BCE8-7223-434C-A852-07A0B58F503F}
+	EndGlobalSection
+EndGlobal
